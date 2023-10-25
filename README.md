@@ -1,14 +1,16 @@
-## Hello! I'm Raphael!
-<div style="display: inline_block"><br>
-<p align="center">
-  <img src="icons/metaverse_icon.png" alt="banner-Github" width="400" border="0">
-</p>
-
+<h2 align="center">Hello! I'm Raphael!</h2>
+<div style="text-align: center">
+  <p>
+    <img src="icons/metaverse_icon.png" alt="banner-Github" width="400" border="0">
+  </p>
+</div>
 <p align="center">
     <a href="https://www.linkedin.com/in/raphareis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:rapphha@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<div style="display: inline_block"><br>
+
+<hr>
+
 <h2>about me ✏️</h2>
 
 ```javascript
@@ -22,18 +24,12 @@ about_me = {
     "hobbies": ["Study", "Play Guitar", "Watch series"]
 }
 ```
-<div style="display: inline_block"><br>
-<h2>things i code with 💻</h2>
-<div style="display: flex;">
-  <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img alt="Kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-</div>
-<div style="display: inline_block"><br>
-<h2>some github stats 📈</h>
-<div style="display: flex; flex-direction: column; align-items: baseline;">
+<div style="display: inline-block">
+  <h2>some github stats 📈</h2>
+  <div style="display: flex; flex-direction: column; align-items: baseline;">
     <a href="https://github.com/raphaelrreis">
-        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=raphaelrreis&show_icons=true&hide_border=true&bg_color=121212&title_color=F43F91&icon_color=F43F91&text_color=FFFFFF"/>
-        <img height="199em" src="http://github-readme-streak-stats.herokuapp.com?user=raphaelrreis&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F43F91&fire=F43F91&sideNums=F43F91&sideLabels=FFFFFF&dates=F43F91&stroke=F43F9100&currStreakNum=F43F91&currStreakLabel=FFFFFF&background=121212"/>
+      <img height="210em" src="https://github-readme-stats.vercel.app/api?username=raphaelrreis&show_icons=true&hide_border=true&bg_color=121212&title_color=F43F91&icon_color=F43F91&text_color=FFFFFF"/>
+      <img height="199em" src="http://github-readme-streak-stats.herokuapp.com?user=raphaelrreis&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F43F91&fire=F43F91&sideNums=F43F91&sideLabels=FFFFFF&dates=F43F91&stroke=F43F9100&currStreakNum=F43F91&currStreakLabel=FFFFFF&background=121212"/>
     </a>
+  </div>
 </div>
