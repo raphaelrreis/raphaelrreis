@@ -1,3 +1,5 @@
+## Hello! I'm Raphael!
+<div style="display: inline_block"><br>
 <p align="center">
   <img src="icons/metaverse_icon.png" alt="banner-Github" width="400" border="0">
 </p>
@@ -6,7 +8,7 @@
     <a href="https://www.linkedin.com/in/raphareis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:rapphha@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
+<div style="display: inline_block"><br>
 <h2>about me ✏️</h2>
 
 ```javascript
@@ -20,13 +22,14 @@ about_me = {
     "hobbies": ["Study", "Play Guitar", "Watch series"]
 }
 ```
+<div style="display: inline_block"><br>
 <h2>things i code with 💻</h2>
 <div style="display: flex;">
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img alt="Kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
-
+<div style="display: inline_block"><br>
 <h2>some github stats 📈</h>
 <div style="display: flex; flex-direction: column; align-items: baseline;">
     <a href="https://github.com/raphaelrreis">
