@@ -27,8 +27,8 @@ about_me = {
   <h2>some github stats 📈</h2>
   <div style="display: flex; flex-direction: column; align-items: baseline;">
     <a href="https://github.com/raphaelrreis">
-      <img height="210em" src="https://github-readme-stats.vercel.app/api?username=raphaelrreis&show_icons=true&hide_border=true&theme=transparent"/>
-      <img height="199em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrreis&layout=compact&langs_count=7&theme=transparent"/>
+      <img height="210em" src="https://github-readme-stats.vercel.app/api?username=raphaelrreis&show_icons=true&hide_border=true&theme=dark"/>
+      <img height="199em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrreis&layout=compact&langs_count=7&theme=dark"/>
     </a>
   </div>
 </div>
