@@ -1,4 +1,4 @@
-## Hello! I'm Raphael!
+<h2 align="center">Hello! I'm Raphael!</h2>
 <p align="center">
   <img src="icons/metaverse_icon.png" alt="banner-Github" width="400">
 </p>
