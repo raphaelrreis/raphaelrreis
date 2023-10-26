@@ -28,7 +28,7 @@ about_me = {
   <div style="display: flex; flex-direction: column; align-items: baseline;">
     <a href="https://github.com/raphaelrreis">
       <img height="210em" src="https://github-readme-stats.vercel.app/api?username=raphaelrreis&show_icons=true&hide_border=true&bg_color=121212&title_color=F43F91&icon_color=F43F91&text_color=FFFFFF"/>
-      <img height="199em" src="https://github-readme-streak-stats.herokuapp.com?user=raphaelrreis&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F43F91&fire=F43F91&sideNums=F43F91&sideLabels=FFFFFF&dates=F43F91&stroke=F43F9100&currStreakNum=F43F91&currStreakLabel=FFFFFF&background=121212"/>
+      <img height="199em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrreis&layout=compact&langs_count=7&theme=dracula"/>
     </a>
   </div>
 </div>
