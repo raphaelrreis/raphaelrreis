@@ -1,8 +1,7 @@
-<h2 align="center">Hello! I'm Raphael!</h2>
-<div style="text-align: center">
-  <p>
-    <img src="icons/metaverse_icon.png" alt="banner-Github" width="400" border="0">
-  </p>
+## Hello! I'm Raphael!
+<p align="center">
+  <img src="icons/metaverse_icon.png" alt="banner-Github" width="400">
+</p>
 </div>
 <p align="center">
     <a href="https://www.linkedin.com/in/raphareis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
