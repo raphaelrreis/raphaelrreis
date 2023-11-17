@@ -17,7 +17,7 @@ about_me = {
     "pronouns": "he/him",
     "state": "Brasilia",
     "job_role": "Senior Software Engineer/Tech Lead",
-    "company": "iFood",
+    "company": "Nubank",
     "technologies_i_worked_on": ["Java", "Kotlin", "Python", "Go", "Kafka", "AWS", "Kubernetes"],
     "studying": ["Artificial Intelligence", "Deep Learning", "Machine Learning", "Computer Vision"],
     "hobbies": ["Study", "Play Guitar", "Watch series"]
