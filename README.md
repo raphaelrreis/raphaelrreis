@@ -15,7 +15,7 @@
 ```javascript
 about_me = {
     "pronouns": "he/him",
-    "state": "Brasilia",
+    "state": "Utah",
     "job_role": "Software Engineer",
     "technologies_i_worked_on": ["Java", "Kotlin", "Python", "Go", "Kafka", "AWS", "Kubernetes"],
     "studying": ["Artificial Intelligence", "Deep Learning", "Machine Learning", "Computer Vision"],
