@@ -38,6 +38,10 @@
 
 ### 📊 GitHub Analytics
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
 <div align="center">
   <a href="https://github.com/raphaelrreis">
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=raphaelrreis&show_icons=true&count_private=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
