@@ -24,14 +24,37 @@
 
 <br>
 
-### 🚀 Featured Project: TrendLab
+### 🔬 Featured Engineering Projects
 
-**[TrendLab](https://github.com/raphaelrreis/trendlab)** is a production-grade Crypto Market Intelligence Pipeline I architected to demonstrate rigorous software engineering in finance.
+I build systems that solve complex distributed problems. Here are two distinct architectural implementations:
 
-*   **Architecture:** Hexagonal (Ports & Adapters)
-*   **Tech:** Python 3.9, Pandas, Scikit-Learn
-*   **Infra:** Docker, K8s (Helm), Terraform
-*   **Quality:** 100% Type Safe (Mypy), Linted (Ruff), Tested (Pytest)
+#### 1. TrendLab: ML & Data Engineering
+> **Domain:** *Quantitative Finance & Time-Series Analysis*
+
+A production-grade pipeline handling the complete lifecycle of financial data processing, strictly enforcing time-series validation rigor.
+
+| Architecture | Tech Stack |
+| :--- | :--- |
+| **Hexagonal (Ports & Adapters)** | **Python**, Pandas, Scikit-Learn (Logistic Regression) |
+| **Cloud Native** | Docker, **Kubernetes (Helm)**, **Terraform** (AWS/Azure) |
+| **Engineering Rigor** | Ruff (Lint), Mypy (Types), Pytest (Coverage), CI/CD |
+
+[**View TrendLab Architecture »**](https://github.com/raphaelrreis/trendlab)
+
+<br>
+
+#### 2. Saga Event Sourcing: Distributed Systems
+> **Domain:** *Microservices Consistency & High-Throughput Transactional Systems*
+
+A robust implementation of distributed transaction patterns to ensure eventual consistency across multiple services.
+
+| Architecture | Tech Stack |
+| :--- | :--- |
+| **Distributed Patterns** | **Saga (Orchestration)**, **Event Sourcing**, **Circuit Breaker**, Transactional Outbox |
+| **Core Stack** | **Java**, **Spring Boot**, **Apache Kafka**, Spring Cloud Sleuth (Tracing) |
+| **Data Persistence** | **MongoDB** (Read/Write Models), Zipkin (Observability) |
+
+[**View Saga Implementation »**](https://github.com/raphaelrreis/poc-saga-event-sourcing)
 
 <br>
 
