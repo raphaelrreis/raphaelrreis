@@ -66,10 +66,10 @@ A robust implementation of distributed transaction patterns to ensure eventual c
 
 <div align="center">
   <a href="https://github.com/raphaelrreis">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=raphaelrreis&show_icons=true&count_private=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=raphaelrreis&show_icons=true&count_private=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&v=2" />
   </a>
   <a href="https://github.com/raphaelrreis">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrreis&layout=compact&langs_count=8&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrreis&layout=compact&langs_count=8&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&v=2" />
   </a>
 </div>
 
