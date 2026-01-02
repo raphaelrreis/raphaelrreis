@@ -4,7 +4,6 @@
 - 🎓 **Lifelong Learner** with executive education from **Harvard** and **MIT CSAIL**.
 - 🌱 Currently deep-diving into **Artificial Intelligence**, **Deep Learning**, and **Computer Vision**.
 - 🔭 Working on building resilient, cloud-native architectures using **Java, Kotlin, Go**, and **Python**.
-- 💬 Ask me about: **System Design**, **Microservices**, **Kafka**, and **ML Pipelines**.
 
 <br>
 
