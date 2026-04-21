@@ -5,10 +5,10 @@
 <div align="center">
 
 ```env
-ROLE="Senior Software Engineer"
-SYSTEMS="Distributed & Cloud-Native"
-INTELLIGENCE="AI & LLM Exploration"
-PHILOSOPHY="Engineering Rigor & Type Safety"
+ROLE         = "Senior Software Engineer"
+SYSTEMS      = "Distributed & Cloud-Native"
+INTELLIGENCE = "AI & LLM Exploration"
+PHILOSOPHY   = "Engineering Rigor & Type Safety"
 ```
 
 </div>
