@@ -1,86 +1,87 @@
-### Hi there, I'm Raphael Reis 👋
-
-- 👨‍💻 **Senior Software Engineer** focused on High-Scale Distributed Systems.
-- 🎓 **Lifelong Learner** with executive education from **Harvard** and **MIT CSAIL**.
-- 🌱 Currently deep-diving into **Artificial Intelligence**, **Deep Learning**, and **Computer Vision**.
-- 🔭 Working on building resilient, cloud-native architectures using **Java, Kotlin, Go**, and **Python**.
-
-<br>
-
-### 🛠 Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
-</p>
-
-<br>
-
-### 🔬 Featured Engineering Projects
-
-I build systems that solve complex distributed problems. Here are two distinct architectural implementations:
-
-#### 1. TrendLab: ML & Data Engineering
-> **Domain:** *Quantitative Finance & Time-Series Analysis*
-
-A production-grade pipeline handling the complete lifecycle of financial data processing, strictly enforcing time-series validation rigor.
-
-| Architecture | Tech Stack |
-| :--- | :--- |
-| **Hexagonal (Ports & Adapters)** | **Python**, Pandas, Scikit-Learn (Logistic Regression) |
-| **Cloud Native** | Docker, **Kubernetes (Helm)**, **Terraform** (AWS/Azure) |
-| **Engineering Rigor** | Ruff (Lint), Mypy (Types), Pytest (Coverage), CI/CD |
-
-[**View TrendLab Architecture »**](https://github.com/raphaelrreis/trendlab)
-
-<br>
-
-#### 2. Saga Event Sourcing: Distributed Systems
-> **Domain:** *Microservices Consistency & High-Throughput Transactional Systems*
-
-A robust implementation of distributed transaction patterns to ensure eventual consistency across multiple services.
-
-| Architecture | Tech Stack |
-| :--- | :--- |
-| **Distributed Patterns** | **Saga (Orchestration)**, **Event Sourcing**, **Circuit Breaker**, Transactional Outbox |
-| **Core Stack** | **Java**, **Spring Boot**, **Apache Kafka**, Spring Cloud Sleuth (Tracing) |
-| **Data Persistence** | **MongoDB** (Read/Write Models), Zipkin (Observability) |
-
-[**View Saga Implementation »**](https://github.com/raphaelrreis/poc-saga-event-sourcing)
-
-<br>
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
-</p>
-
 <div align="center">
-  <a href="https://github.com/raphaelrreis">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=raphaelrreis&show_icons=true&count_private=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&v=2" />
-  </a>
-  <a href="https://github.com/raphaelrreis">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrreis&layout=compact&langs_count=8&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&v=2" />
-  </a>
+  <img src="https://raw.githubusercontent.com/raphaelrreis/raphaelrreis/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </div>
 
-<br clear="both">
-<br>
+# <p align="center">`Software Engineer // Distributed Systems // AI Explorer`</p>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/raphareis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rapphha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.harvard.edu/"><img src="https://img.shields.io/badge/Harvard-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white" /></a>
+  <a href="https://www.csail.mit.edu/"><img src="https://img.shields.io/badge/MIT_CSAIL-8A8D8F?style=for-the-badge&logo=massachusetts-institute-of-technology&logoColor=white" /></a>
+</div>
 
-[![Harvard](https://img.shields.io/badge/Harvard-Lifelong_Learner-A51C30?style=for-the-badge&logo=harvard-university&logoColor=white)](https://www.harvard.edu/)
-[![MIT](https://img.shields.io/badge/MIT_CSAIL-Computer_Vision-grey?style=for-the-badge&logo=massachusetts-institute-of-technology&logoColor=white)](https://www.csail.mit.edu/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphareis/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rapphha@gmail.com)
+---
 
+### 🟢 Terminal: /whoami
+
+```zsh
+> Raphael Reis
+> Role: Senior Software Engineer
+> Focus: High-Scale Distributed Systems & AI/Computer Vision
+> Passionate about: Engineering Rigor, Type Safety, and Observable Architectures
+```
+
+---
+
+### 🛠️ Core Tech Stack
+
+| **Language & Systems** | **Cloud & Infrastructure** | **Data & AI** |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+
+---
+
+### 🔬 Featured Architectural Implementations
+
+<details open>
+<summary><b>🚀 ApexStream | High-Performance Telemetry</b></summary>
+<br>
+Distributed system for real-time F1 telemetry processing. Built with Go, NATS, and InfluxDB.
+
+- **Focus:** Low Latency, Concurrency, Worker Pools.
+- **Stack:** Go, NATS, gRPC, Protobuf, K8s, Terraform.
+[**View Repository »**](https://github.com/raphaelrreis/apexstream)
+</details>
+
+<details>
+<summary><b>📈 TrendLab | ML & Data Engineering</b></summary>
+<br>
+Production-grade pipeline for quantitative finance and time-series analysis.
+
+- **Architecture:** Hexagonal (Ports & Adapters).
+- **Stack:** Python, Scikit-Learn, Kubernetes, Terraform.
+[**View Repository »**](https://github.com/raphaelrreis/trendlab)
+</details>
+
+<details>
+<summary><b>🔄 Saga Event Sourcing | Distributed Systems</b></summary>
+<br>
+Microservices consistency using Saga Orchestration and Event Sourcing patterns.
+
+- **Patterns:** Saga, Event Sourcing, Circuit Breaker.
+- **Stack:** Java, Spring Boot, Apache Kafka, MongoDB, Zipkin.
+[**View Repository »**](https://github.com/raphaelrreis/poc-saga-event-sourcing)
+</details>
+
+---
+
+### 📊 Git Insights
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelrreis&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelrreis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelrreis&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>"The best way to predict the future is to invent it."</i></p>
 </div>
