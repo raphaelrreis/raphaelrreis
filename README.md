@@ -2,7 +2,16 @@
   <img src="https://raw.githubusercontent.com/raphaelrreis/raphaelrreis/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </div>
 
-# <p align="center">`Software Engineer // Distributed Systems // AI Explorer`</p>
+<div align="center">
+
+```env
+ROLE="Senior Software Engineer"
+SYSTEMS="Distributed & Cloud-Native"
+INTELLIGENCE="AI & LLM Exploration"
+PHILOSOPHY="Engineering Rigor & Type Safety"
+```
+
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raphareis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,9 +26,8 @@
 
 ```zsh
 > Raphael Reis
-> Role: Senior Software Engineer
 > Focus: High-Scale Distributed Systems & AI/LLM Engineering
-> Passionate about: Engineering Rigor, Type Safety, and Observable Architectures
+> Passionate about: Clean Code, Performance, and Observable Architectures
 ```
 
 ---
