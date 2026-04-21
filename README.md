@@ -4,7 +4,7 @@
 
 <div align="center">
 
-```env
+```text
 ROLE         = "Senior Software Engineer"
 SYSTEMS      = "Distributed & Cloud-Native"
 INTELLIGENCE = "AI & LLM Exploration"
