@@ -24,11 +24,9 @@ PHILOSOPHY   = "Engineering Rigor & Type Safety"
 
 ### 🟢 Terminal: /whoami
 
-```zsh
-> Raphael Reis
-> Focus: High-Scale Distributed Systems & AI/LLM Engineering
-> Passionate about: Clean Code, Performance, and Observable Architectures
-```
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4AF626&width=600&lines=>>+Raphael+Reis;>>+Focus:+High-Scale+Distributed+Systems;>>+AI+%2F+LLM+Engineering;>>+Passionate+about:+Clean+Code+%26+Performance" alt="Typing SVG" />
+</p>
 
 ---
 
