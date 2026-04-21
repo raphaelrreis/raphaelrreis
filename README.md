@@ -46,7 +46,7 @@ PHILOSOPHY   = "Engineering Rigor & Type Safety"
 ### 🔬 Featured Architectural Implementations
 
 <details open>
-<summary><b>🚀 ApexStream | High-Performance Telemetry</b></summary>
+<summary><b>🏎️ ApexStream | High-Performance Telemetry</b></summary>
 <br>
 Distributed system for real-time F1 telemetry processing. Built with Go, NATS, and InfluxDB.
 
