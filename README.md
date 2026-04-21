@@ -25,7 +25,7 @@ PHILOSOPHY   = "Engineering Rigor & Type Safety"
 ### 🟢 Terminal: /whoami
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4AF626&width=600&lines=>>+Raphael+Reis;>>+Focus:+High-Scale+Distributed+Systems;>>+AI+%2F+LLM+Engineering;>>+Passionate+about:+Clean+Code+%26+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4AF626&width=600&lines=>>+Raphael+Reis;>>+Senior+Software+Engineer;>>+High-Scale+Distributed+Systems;>>+AI+%2F+LLM+Exploration" alt="Typing SVG" />
 </p>
 
 ---
